@@ -1,3 +1,7 @@
+Комитим здесь,
+а через вебхук деплоится сюда:
+symphonious-lolly-521730.netlify.app/
+
 # Welcome to Remix!
 
 - [Remix Docs](https://remix.run/docs)
