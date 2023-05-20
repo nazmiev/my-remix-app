@@ -1,6 +1,6 @@
-Комитим здесь,
-а через вебхук деплоится сюда:
-symphonious-lolly-521730.netlify.app/
+Комитим здесь,<br>
+а через вебхук деплоится сюда:<br>
+https://symphonious-lolly-521730.netlify.app/
 
 # Welcome to Remix!
 
